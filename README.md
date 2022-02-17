@@ -15,7 +15,7 @@ Socialus.com 의 데이터를 이용하여 영상 장르 별 순위권 채널들
 
 --------------
 
-##Contents
-과제 수행 계획서\
-MOSP 보고서\
-EOSP 보고서
+## Contents
+1. 과제 수행 계획서\
+2. MOSP 보고서\
+3. EOSP 보고서
